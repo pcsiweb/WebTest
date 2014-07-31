@@ -19,6 +19,7 @@
  * defined by the input parameters.
  ********************************************************************************/
 
+// Comment added in Upstream
 global $entityDel;
 global $display;
 global $category;
