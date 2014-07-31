@@ -20,6 +20,7 @@
  ********************************************************************************/
 
 // Comment added in Upstream
+// This is the Customer Specific Version
 global $entityDel;
 global $display;
 global $category;
