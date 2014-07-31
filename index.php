@@ -893,3 +893,4 @@ if((!$viewAttachment) && (!$viewAttachment && $action != 'home_rss') && $action 
 		include('modules/Vtiger/footer.php');
 }
 ?>
+<!-- Comment line added from Fork -->
